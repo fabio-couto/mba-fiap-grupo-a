@@ -41,4 +41,4 @@ Os serviços serão iniciados nos endereços abaixo
 
 Utilize o comando abaixo:
 
-`docker-compose -f "docker-compose.yml" down`
+`docker-compose -f .\docker-hadoop\docker-compose.yml down`
