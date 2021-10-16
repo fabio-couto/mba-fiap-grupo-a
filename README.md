@@ -1,8 +1,8 @@
-# MBA Fiap - Grupo A - Case da Usina de Cana de Açucar
+# MBA Fiap - Grupo A - Case da Usina de Cana de Açúcar
 
 ## Objetivo
 
-Disponibilizar um ambiente virtualizado de Big Data para avaliação e testes da proposta de solução do case da Usina de Cana de Açucar do Grupo A
+Disponibilizar um ambiente virtualizado de Big Data para avaliação e testes da proposta de solução do case da Usina de Cana de Açúcar do Grupo A
 
 ## Diretórios
 
